@@ -1,5 +1,6 @@
 # Playground
-lets create a merge conflict!!
+conflict resolved!!
+
 A place to play with `git`.
 
 ### Fall 2019
